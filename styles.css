@@ -3,4 +3,14 @@ header{
 	background-color:#011e29;
 	color:white;
 	text-align:center;
+	padding:10px;
+}
+.Latest-News-Articles,.Pictorial-News,.Main-Article{
+	background-color:grey;
+	display:inline-block;
+	text-align:center;
+	padding:5px;
+	color:black;
+	width:30%;
+	margin:10px;
 }
