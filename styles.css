@@ -5,9 +5,10 @@ header{
 	text-align:center;
 	padding:10px;
 }
-.Latest-News-Articles,.Pictorial-News,.Main-Article{
+.latest-news-section,.pictorial-news-section,.Main-Article{
 	background-color:grey;
 	display:inline-block;
+	border-radius:10px;
 	text-align:center;
 	padding:5px;
 	color:black;
